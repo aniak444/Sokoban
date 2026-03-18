@@ -1,0 +1,15 @@
+
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.exe
+*.ilk
+*.log
+
+
+packages/
+
